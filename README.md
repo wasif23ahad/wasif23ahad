@@ -71,9 +71,16 @@ Customer, restaurant, rider, and admin flows with cross-domain cookie auth.
 
 ### Get in Touch
 
-📧 [wasifahad300@gmail.com](mailto:wasifahad300@gmail.com) &nbsp;·&nbsp; 🌐 [wasif23ahad.me](https://www.wasif23ahad.me/) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/wasifahad/) &nbsp;·&nbsp; 🐦 [X](https://x.com/WasifAhad1) &nbsp;·&nbsp; 📘 [Facebook](https://www.facebook.com/wasifahad23) &nbsp;·&nbsp; 📸 [Instagram](https://www.instagram.com/wasif23ahad/) &nbsp;·&nbsp; 💬 WhatsApp +8801973116555
-
+<p>
+  📧 <a href="mailto:wasifahad300@gmail.com">wasifahad300@gmail.com</a> &nbsp;·&nbsp;
+  🌐 <a href="https://www.wasif23ahad.me/">wasif23ahad.me</a> &nbsp;·&nbsp;
+  💼 <a href="https://www.linkedin.com/in/wasifahad/">LinkedIn</a> &nbsp;·&nbsp;
+  🐦 <a href="https://x.com/WasifAhad1">X</a> &nbsp;·&nbsp;
+  📘 <a href="https://www.facebook.com/wasifahad23">Facebook</a> &nbsp;·&nbsp;
+  📸 <a href="https://www.instagram.com/wasif23ahad/">Instagram</a> &nbsp;·&nbsp;
+  💬 <a href="https://wa.me/8801973116555">WhatsApp</a>
+</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasif23ahad&show_icons=true&theme=tokyonight&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasif23ahad&layout=compact&theme=tokyonight&hide_border=true" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wasif23ahad&theme=tokyonight" height="160" alt="Repos Per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wasif23ahad&theme=tokyonight" height="160" alt="Most Commit Language">
 </p>
