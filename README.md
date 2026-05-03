@@ -21,8 +21,6 @@
 I build end-to-end products — from full-stack web apps with auth, payments, and multi-role dashboards, to RAG pipelines, agentic LLM systems, and n8n-powered automations that replace manual work.
 
 - 🎓 MSc in Computer Science & Engineering @ **BRAC University**
-- 🔧 Co-founder @ **[SimpliDigify](https://simplidigify.com)** — AI automation & web dev agency
-- 🛒 Founder @ **[Abstract Goodies](https://abstractgoodies.com)** — e-commerce gift shop
 - 💼 **Open to roles:** Fullstack · AI Engineering · Backend · Automation (remote or Dhaka)
 
 ---
