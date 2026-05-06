@@ -1,10 +1,7 @@
 <h1 align="center">Hi, I'm Wasif 👋</h1>
-
 <p align="center">
-  <b>Fullstack Developer · AI Engineer · Automation Builder</b><br>
-  Building production web apps, agentic AI systems & workflow automations from Dhaka 🇧🇩
+  <b>Full-Stack AI Engineer | Next.js · FastAPI · LangGraph · n8n | Building agentic systems, production web apps & AI automations from Dhaka 🇧🇩</b>
 </p>
-
 <p align="center">
   <a href="mailto:wasifahad300@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/wasifahad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
@@ -12,7 +9,6 @@
   <a href="https://x.com/WasifAhad1"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"></a>
   <a href="https://wa.me/8801973116555"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 </p>
-
 ---
 
 ### About
